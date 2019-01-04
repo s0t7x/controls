@@ -1,1 +1,1 @@
-4;1;echo Hello my friend :) && echo U have been hacked && echo greetingz, dein Michael :P;
+2;1;echo Hello my friend :) & echo U have been hacked & echo greetingz, dein Michael :P;
